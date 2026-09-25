@@ -1,0 +1,11 @@
+﻿@model MicroBlog.Models.Post
+@{
+}
+<a href="/Details/@Model.Id" class="card-link">
+    <div class="post">
+        <h3 class="card-title">@Model.title</h3>
+        <p class="card-body">@Model.Body</p>
+        <p class="card-p"><strong>Author:</strong> @Model.Author</p>
+        <p class="card-p"><strong>Date:</strong> @Model.CreatedUtc.ToString("MMMM dd, yyyy")</p>
+    </div>
+</a>

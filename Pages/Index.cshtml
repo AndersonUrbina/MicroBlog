@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Blog</h1>
+    <p>This is a simple blog application built with ASP.NET Core. That displays blog posts from a .json file.</p>
+</div>
+<br>
+
+<section id="posts">
+<h2>Posts</h2>
+	@foreach (var post in Model.Posts)
+    {
+        <partial name="_PostCard" model="post" />
+    }
+</section>

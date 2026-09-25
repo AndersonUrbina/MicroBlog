@@ -1,0 +1,32 @@
+﻿@page
+@model MicroBlog.Pages.CreateModel
+@{
+    ViewData["Title"] = "Create page";
+}
+
+<section id="posts">
+    <div id="form">
+        <h1>Create a New Post</h1>
+        <p>Use the form below to create a new post for the blog. Fill in the title, body, author, and date fields, then click "Create Post" to submit your post.</p>
+        <br>
+        <form method="POST">
+			<label for="Title">Title:</label>
+            <input type="text" id="Title" asp-for="Post.title">
+            <br>
+            <span asp-validation-for="Post.title"></span>
+            <br>
+            <label for="body">Body:</label>
+            <textarea id="body" asp-for="Post.Body" rows="4" cols="50"
+                placeholder="Write the Body of your Post here!"></textarea>
+            <br>
+            <span asp-validation-for="Post.Body"></span>
+            <br>
+            <label for="author">Author:</label>
+            <input type="text" id="author" asp-for="Post.Author">
+            <br>
+            <span asp-validation-for="Post.Author"></span>
+            <br>
+            <button type="submit">Create Post</button>
+		</form>
+    </div>
+</section>

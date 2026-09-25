@@ -1,0 +1,14 @@
+﻿@page "{Id:int}"
+@model MicroBlog.Pages.DetailsModel
+@{
+	ViewData["Title"] = "Details page";
+}
+
+<section id="posts">
+    <div class="details">
+        <h3 class="card-title">@Model.Post.title</h3>
+        <p class="card-p"><strong>Author:</strong> @Model.Post.Author</p>
+        <p class="card-p"><strong>Date:</strong> @Model.Post.CreatedUtc</p>
+        <p class="card-body">@Model.Post.Body</p>
+    </div>
+</section>

@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 2,
+        "title": "Using ASP.NET Core 7 Minimal APIs: Request Filters, Parameter Mapping, and More",
+        "Body": "Several features have been added to Minimal APIs with the .NET 7 release. This tutorial shows how they are now almost as powerful as traditional controller-based APIs while being far less verbose.",
+        "Author": "FIODAR SAZANAVETS",
+        "CreatedUtc": "2026-09-25T20:44:35.1539155Z"
+    },
+    {
+        "Id": 3,
+        "title": "ASP.NET SPA Templates Proxy Changes from .NET 5 to .NET 6, .NET 7, and on",
+        "Body": "From .NET 6 the communication between front-end Single Page Applications (SPA) in ASP.NET and back-end .NET API was changed, with the SPA templates using the front end\u2019s proxy solutions. A proxy for the development servers enables readable and debuggable code for both the front and back end, with the new approach resulting in a more independent back end.",
+        "Author": "TAM\u00C1S-M\u00C1RK FUR\u00D3",
+        "CreatedUtc": "2026-09-25T20:48:24.1503192Z"
+    },
+    {
+        "Id": 4,
+        "title": "Developing a Cloud-Native Application on Microsoft Azure Using Open Source Technologies",
+        "Body": "Cloud native is a development approach that improves building, maintainability, scalability, and deployment of applications. My intention with this article is to explain, in a pragmatic way, how to build, deploy, run, and monitor a simple cloud-native application on Microsoft Azure using open-source technologies.",
+        "Author": "ANDREA GRILLO",
+        "CreatedUtc": "2026-09-25T20:55:21.0664248Z"
+    },
+    {
+        "Id": 5,
+        "title": "Evolvivo: A Publication Focused on Personal Growth",
+        "Body": "In a world filled with advice on productivity, wellness, careers, and self-improvement, Evolvivo offers readers a place to explore these subjects from a broader perspective.\r\n\r\nPublished by Evolvivo, the publication focuses on the idea of personal evolution\u2014the ongoing process of becoming healthier, more capable, and more intentional in everyday life.\r\n\r\nEvolvivo is a personal-growth publication covering three primary areas: Well-being, Career \u0026 Growth, and Mindset. Its content explores practical subjects ranging from fitness and meditation to productivity, relationships, career development, and personal habits.\r\n\r\nRather than focusing on just one aspect of self-improvement, Evolvivo takes a more holistic approach. The publication recognizes that physical health, mindset, relationships, and professional growth can all play a role in building a fulfilling life.\r\n\r\nA key feature of Evolvivo is its focus on practical, accessible topics. Readers can find ideas related to developing better routines, improving focus, strengthening relationships, learning new skills, and approaching personal challenges with a different mindset.\r\n\r\nThe emphasis is not necessarily on dramatic overnight transformation. Instead, the underlying message is that small, consistent improvements can contribute to meaningful long-term change.\r\n\r\nRather than centering the publication around a single personal-development personality, Evolvivo serves as its own publishing identity.\r\n\r\nThe site\u0027s publicly available information does not prominently identify a specific individual as its author or founder. As a result, Evolvivo is best described as the publisher and editorial brand behind the content, rather than attributing its philosophy to a particular person without further documentation.\r\n\r\nWhat makes Evolvivo distinctive is the range of subjects it brings together. Someone interested in improving their physical well-being can find relevant content alongside articles about mindset, productivity, relationships, and career growth.\r\n\r\nThis reflects a simple idea: personal development isn\u0027t limited to one area of life. Improving your health, developing a professional skill, creating better habits, or becoming more mindful can all be part of the same larger journey.\r\n\r\nEvolvivo is a personal-growth publication built around the idea of continuous improvement. Through its coverage of well-being, mindset, and career development, the publisher offers readers practical ideas for making positive changes in different areas of their lives.\r\n\r\nIts central concept is straightforward: personal growth isn\u0027t about becoming perfect. It\u0027s about continuing to learn, adapt, and evolve, one step at a time.",
+        "Author": "Anderson U.",
+        "CreatedUtc": "2026-09-25T22:10:53.3856924Z"
+    }
+]
