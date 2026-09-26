@@ -40,4 +40,11 @@ dotnet run
 
 ## Screenshot
 
-![MicroBlog Screenshot](screenshots/microblog.png)
+### Home-Page
+<img src="Screenshots/HomePage.png">
+
+### Form-Page
+<img src="Screenshots/FormPage.png">
+
+### Details-Page
+<img src="Screenshots/ArticlesDetails.png">
